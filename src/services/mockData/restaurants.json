@@ -43,9 +43,9 @@
     "Id": 3,
     "name": "Taco Libre",
     "cuisine": "Mexican",
-    "priceRange": "$$",
+"priceRange": "$$",
     "rating": 4.5,
-    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=500&h=300&fit=crop",
+    "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=500&h=300&fit=crop",
     "address": "789 Elm Street, Eastside",
     "phone": "(555) 345-6789",
     "hours": {
